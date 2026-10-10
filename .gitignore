@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+
+# Local databases
+*.db
+
+# Trained model files
+*.h5
+
+# Video files
+*.mp4
+
+# Generated frames and datasets
+abnormal/
+normal/
+Frames/
+Data/
